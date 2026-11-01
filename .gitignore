@@ -1,0 +1,9 @@
+arc_prize_extracted
+__pycache__/
+*.py[cod]
+kvl_audit_report.json
+Kinetic-AG Database/
+SOURCE_CODE_SNAPSHOT*.txt
+KVL_CONTRACT*.md
+EXTERNAL_ENGINEERING_REVIEW*.md
+*_LOCAL_NOTES*.md
